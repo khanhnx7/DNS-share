@@ -10,12 +10,12 @@
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
 					<key>ServerURL</key>
-					<string>https://d.adguard-dns.com/dns-query/df7ee4e1</string>
+					<string>https://4m68523bi6.cloudflare-gateway.com/dns-query</string>
 				</dict>
 				<key>PayloadDescription</key>
-				<string>Configures device to use AdGuard DNS</string>
+				<string>Configures device to use khanhnx's DNS</string>
 				<key>PayloadDisplayName</key>
-				<string>Chặn QC</string>
+				<string>Chặn thu hồi cc</string>
 				<key>PayloadIdentifier</key>
 				<string>khanhnx.apple.dnsSettings.managed.068b6bb5-ad4c-4cc0-8e9f-8a1ba9058b02</string>
 				<key>PayloadType</key>
@@ -29,7 +29,7 @@
 		<key>PayloadDescription</key>
 		<string>Tạo bởi Khánh</string>
 		<key>PayloadDisplayName</key>
-		<string>Chặn QC - khanhnx</string>
+		<string>Chặn thu hồi cc-khanhnx</string>
 		<key>PayloadIdentifier</key>
 		<string>khanhnx.dns-apple.068b6bb5-ad4c-4cc0-8e9f-8a1ba9058b02</string>
 		<key>PayloadRemovalDisallowed</key>
